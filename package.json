@@ -1,0 +1,11 @@
+{
+  "name": "webplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compileJar": "echo \"Compiling Java\" && javac JarExample.java && jar cfe JarExample.jar JarExample JarExample.class && echo \"Java Compiled\""
+  },
+  "author": "",
+  "license": "ISC"
+}
